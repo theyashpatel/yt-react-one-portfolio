@@ -40,6 +40,8 @@ const Home = () => {
             src={HeroImage}
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
+            placeholder="Don't have a pic, I might change it later"
+        
           />
         </div>
       </div>
