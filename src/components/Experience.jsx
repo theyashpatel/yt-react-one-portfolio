@@ -4,10 +4,13 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
+// import nextjs from "../assets/nextjs.png";
+// import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import java from "../assets/java.png"
+import spring from "../assets/spring.png"
+import sql from "../assets/sql_.png"
 
 const Experience = () => {
   const techs = [
@@ -43,18 +46,24 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next JS",
-      style: "shadow-white",
+      src: java,
+      title: "Java",
+      style: "shadow-red-500",
     },
     {
       id: 7,
-      src: graphql,
-      title: "GraphQL",
-      style: "shadow-pink-400",
+      src: spring,
+      title: "Spring",
+      style: "shadow-lime-300",
     },
     {
       id: 8,
+      src: sql,
+      title: "SQL",
+      style: "shadow-sky-300",
+    },
+    {
+      id: 9,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",

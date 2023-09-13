@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin,FaTwitter } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/harshdeep-singh-375a31218/",
       style: "rounded-tr-md",
     },
     {
@@ -22,10 +22,19 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/theyashpatel",
+      href: "https://github.com/LIL-giraffe",
     },
     {
       id: 3,
+      child: (
+        <>
+          Twitter( X ) <FaTwitter size={30} />
+        </>
+      ),
+      href: "https://twitter.com/swatswat_go_go",
+    },
+    {
+      id: 4,
       child: (
         <>
           Mail <HiOutlineMail size={30} />
@@ -34,13 +43,13 @@ const SocialLinks = () => {
       href: "mailto:foo@gmail.com",
     },
     {
-      id: 4,
+      id: 5,
       child: (
         <>
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/resume.pdf",
+      href: "/HarshdeepResume.pdf",
       style: "rounded-br-md",
       download: true,
     },

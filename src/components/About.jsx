@@ -14,23 +14,24 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Hi there! My name is Harshdeep Singh and I am so happy to have 
+        you here on my page. I am a Full Stack Developer and I absolutely love 
+        what I do.When I am not working, you can find me on a football pitch or 
+        reading a book in some corner.. I am a big believer in harrdwork and punctuality,  
+        and I strive to live out those values every day. Thanks for stopping 
+        by and getting to know me a little bit better!
+
+
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Highly motivated and detail-oriented Developer with a strong academic 
+        background . Skilled in programming languages such as Java and Javascript,
+        with hands-on experience in software development lifecycle. Committed to 
+        delivering high-quality code and continuously improving software solutions.
+        Coding always intrigued me, and development made me fall in love with it.
         </p>
       </div>
     </div>
